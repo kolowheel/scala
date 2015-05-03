@@ -54,3 +54,4 @@
 /project/target/
 /project/project/target
 /build-sbt/
+.idea_modules/
